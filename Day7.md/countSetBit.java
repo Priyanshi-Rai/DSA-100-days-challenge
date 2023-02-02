@@ -11,7 +11,7 @@ public class countSetBit{
     return count;    
 }
     public static void main(String args[]){
-        int num=7;
-        System.out.println(count(num));
+         int num=7;
+         System.out.println(count(num));
     }
 }
