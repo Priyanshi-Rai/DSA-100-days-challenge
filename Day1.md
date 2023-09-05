@@ -33,7 +33,7 @@ A function f(n) is said to be growing faster than g(n) if <br>
 - Ignore the lower order time.
 - Ignore the coefficients.
 
-*Comparison series*
+*Comparison series on DSA*
 
 > C < loglogn < logn < n^1/3 < n^1/2 < n < n^2 < n^3 < n^4 < 2^n < n^n
 
